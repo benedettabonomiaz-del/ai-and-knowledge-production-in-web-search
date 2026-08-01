@@ -53,6 +53,4 @@ Each response was evaluated on a **0 to 5 scale** across six core metrics:
 ### 3. Perplexity AI (Citation-Backed Answer Engine)
 * **High Source Transparency (5/5) with Low Traffic Incentive (1.8/5):** Citations serve as "expert witnesses" to validate the AI's answer rather than gateways to external web exploration ("Killing the Link").
 * **Strong Normative Assertions (4.5/5):** Frequently takes explicit institutional stances, acting as an authoritative judge rather than a neutral portal.
-│   └── radar_chart.png
-└── scripts/
-    └── generate_charts.R               <- R script used for generating Heatmaps & Radar Chart
+  <- R script used for generating Heatmaps & Radar Chart
